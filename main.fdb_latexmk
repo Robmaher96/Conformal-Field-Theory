@@ -1,5 +1,5 @@
 # Fdb version 3
-["pdflatex"] 1540364322 "main.tex" "main.pdf" "main" 1540446437
+["pdflatex"] 1543465359 "main.tex" "main.pdf" "main" 1543465360
   "/etc/texmf/web2c/texmf.cnf" 1538873781 475 c0e671620eb5563b2130f56340a5fde8 ""
   "/usr/share/texlive/texmf-dist/fonts/map/fontname/texfonts.map" 1511824771 3332 103109f5612ad95229751940c61aada0 ""
   "/usr/share/texlive/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm" 1480098698 1004 54797486969f23fa377b128694d548df ""
@@ -43,6 +43,7 @@
   "/usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb" 1480098733 32569 5e5ddc8df908dea60932f3c484a54c0d ""
   "/usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb" 1480098733 32716 08e384dc442464e7285e891af9f45947 ""
   "/usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/euler/eufm10.pfb" 1480098733 21098 d4aee7c0aac232caac5688b586b9363c ""
+  "/usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/euler/eufm7.pfb" 1480098733 21251 56705123063d7b34002d6b6e7142345e ""
   "/usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/symbols/msbm10.pfb" 1480098734 34694 ad62b13721ee8eda1dcc8993c8bd7041 ""
   "/usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/symbols/msbm7.pfb" 1480098734 35309 940e81a5b9e04201a07e8b33a3ae6e64 ""
   "/usr/share/texlive/texmf-dist/tex/latex/amscls/amsthm.sty" 1513722769 12604 3dec726c041422879dc3268237f09026 ""
@@ -67,10 +68,10 @@
   "/usr/share/texlive/texmf-dist/web2c/texmf.cnf" 1520210507 32485 c64754543d8ac501bea6e75e209ea521 ""
   "/usr/share/texmf/web2c/texmf.cnf" 1520210507 32485 c64754543d8ac501bea6e75e209ea521 ""
   "/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map" 1538874420 2700761 ac0584cc9514ab21918550a6948c4ee2 ""
-  "/var/lib/texmf/web2c/pdftex/pdflatex.fmt" 1538874493 4126183 76ff4fe32dcb215de63cd9cb9aec4e74 ""
-  "main.aux" 1540364323 680 31d9350e1d1e6a8f084eec8cb3f80868 ""
-  "main.tex" 1540364339 9010 baf9f5b5e5e1d77523bcaafc0f9afd16 ""
+  "/var/lib/texmf/web2c/pdftex/pdflatex.fmt" 1541379450 4127750 77ac872a8064201ae0d93169047f92a9 ""
+  "main.aux" 1543465359 999 92dc3a23cb16ce0cf6c1b7c17cbc8535 ""
+  "main.tex" 1543465358 10103 7372d4586ef5d799bd33d7014356c401 ""
   (generated)
+  "main.log"
   "main.aux"
   "main.pdf"
-  "main.log"
